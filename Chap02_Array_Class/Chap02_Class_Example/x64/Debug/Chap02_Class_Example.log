@@ -5,4 +5,26 @@ C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_
 C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\Car.h(34,27): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-  Chap02_Class_Example.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\x64\Debug\Chap02_Class_Example.exe
+C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\Smarthome.h(26,5): error C2535: 'SmartHome::SmartHome(std::string,int,int,bool)': 멤버 함수를 이미 정의했거나 선언했습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\Smarthome.h(19,5):
+  'SmartHome::SmartHome' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\Smarthome.h(27,40): error C2614: 'SmartHome': 멤버 초기화가 잘못되었습니다. 'secruity'이(가) 기본 또는 멤버가 아닙니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\Smarthome.h(28,9): error C2664: 'char *strcpy(char *,const char *)': 인수 1을(를) 'std::string'에서 'char *'(으)로 변환할 수 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\Smarthome.h(28,16):
+  이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(130,1):
+  'strcpy' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\Smarthome.h(28,9):
+  인수 목록 '(std::string, std::string)'을(를) 일치시키는 동안
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\MusicStreamingService.h(59,20): error C2059: 구문 오류: '>'
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\MusicStreamingService.h(59,52): error C2334: '{' 앞에 예기치 않은 토큰이 있습니다. 명백한 함수 본문을 건너뜁니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
